@@ -6,7 +6,7 @@
 - 🎓 **การศึกษา:** สาขาเทคโนโลยีสารสนเทศ (Information Technology)
 - 💻 **สิ่งที่กำลังฝึกฝน:** การเขียนโปรแกรมพื้นฐาน,และการใช้งาน Git Workflow
 - 📍 **Location:** Nakhon Pathom, Thailand
-- 📫 **ติดต่อ:** tawawadee.y@ku.th
+- 📫 **Contact:** tawawadee.y@ku.th
 
 ### 🛠 Tech Stack & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
